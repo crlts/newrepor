@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodi-mexico" name="Kodi-crlts official Repo" version="1.1.0" provider-name="Kodicrlts">
+	<extension point="xbmc.addon.repository" name="Kodi-crlts official Repo">
+		<info compressed="false">https://raw.githubusercontent.com/crlts/newrepor/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/crlts/newrepor/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/crlts/newrepor/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kodi-Mexico official Repo</summary>
+   		<description lang="en">saludos que disfruten de la programación.</description>saludos que disfruten de la programación
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
